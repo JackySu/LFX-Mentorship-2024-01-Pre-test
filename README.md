@@ -53,7 +53,7 @@ Using branch `hydai/0.13.5_ggml_lts` for [rustls plugin](#2-build-and-execute-ru
   
 - Build plugin and install
   
-  ```
+  ```sh
   # clone source code and build `rustls` plugin
   git clone https://github.com/WasmEdge/WasmEdge.git -b hydai/0.13.5_ggml_lts
   cd WasmEdge/plugins/wasmedge_rustls
